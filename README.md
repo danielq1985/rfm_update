@@ -12,5 +12,5 @@
 ### Background
 - The dataset is from a real sprinkler service company. 
 - Our questions: Who are our customers? How can we leverage our data?
-- The RFM groups were then used to market to each individual group.
+
 
