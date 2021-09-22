@@ -11,6 +11,6 @@
 
 ### Background
 - The dataset is from a real sprinkler service company. 
-- Our questions: Who are our customers? How can we leverage our data?
+- Our questions: Who are our customers? How can we leverage our data with specific marketing?
 
 
