@@ -1,4 +1,4 @@
-(images/question-mark-2492009_1920.jpg)
+(/images/question-mark-2492009_1920.jpg)
 
 # RFM analysis (recency, frequency, monetary)
 
