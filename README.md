@@ -5,4 +5,5 @@
 - Frequency: How often did the customer work with us in the selected period?
 - Monetary: How much money did the customer spend in a given period? 
 
-
+### Background
+The dataset is from a real sprinkler service company
