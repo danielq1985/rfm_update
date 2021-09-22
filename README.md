@@ -1,4 +1,4 @@
-# RFM analysis (recency, frequency, monetary)
+# How to target customers with RFM analysis
 
 ![alt text](/images/question-mark-2492009_640.jpg)
 
