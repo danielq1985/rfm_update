@@ -1,6 +1,8 @@
+# RFM analysis (recency, frequency, monetary)
+
 ![alt text](/images/question-mark-2492009_640.jpg)
 
-# RFM analysis (recency, frequency, monetary)
+
 
 ### What Is RFM?
 - Recency: How recent was the customers last purchase? 
