@@ -10,5 +10,5 @@
 - Monetary: How much money did the customer spend in a given period? 
 
 ### Background
-The dataset is from a real sprinkler service company.
+The dataset is from a real sprinkler service company. The RFM groups were used to market to each individual group.
 
