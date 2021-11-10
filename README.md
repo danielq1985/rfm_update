@@ -13,5 +13,3 @@
 - The dataset is from a real sprinkler service company. 
 - Our questions: Who are our customers? How can we leverage our data with specific marketing?
 
-
-now we can anylyze the different types of customers and predict 
