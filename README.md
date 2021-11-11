@@ -13,6 +13,10 @@
 - The dataset is from a CRM from a sprinkler service company. 
 - Our questions: 
   - Who are our customers? 
+    - How many different types of customers do we have?
+    -     
   - How can we leverage our data with specific marketing?
+  - How do we serve them in their current state?
+  - How do we get them to the next level?
   
 
